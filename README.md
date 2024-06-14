@@ -4,9 +4,8 @@
 This project is a RESTful API for managing trade data. It uses an in-memory SQLite database to store trade records, including trade code, date, close price, and volume.
 
 ## Technologies Used
-- Backend: Node.js, Express
-- Database: SQLite
-- Middleware: body-parser, cors
+- Backend: Node.js, Express for server-side scripting and API handling.
+- Database: SQLite for lightweight, self-contained SQL database engine.
 
   
 ## Frontend Overview
@@ -23,7 +22,7 @@ The frontend of this application is built using React and JavaScript. It provide
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Shoishob007/task101.git
+    git clone https://github.com/Shoishob007/MyTasks.git
     ```
 
 2. **Navigate to the project directory:**
