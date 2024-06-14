@@ -82,7 +82,7 @@ The frontend of this application is built using React and JavaScript. It provide
 The backend server should now be running, typically on `http://localhost:3000`, and your frontend development server should be running on `http://localhost:5173/`.
 
 ## Branch Information
-- **master**: Contains the main application code.
+- **main**: Contains the main application code and the readme.md file describing the outcome of the project.
 - **sqlModel**: Contains the application code with SQL database models.
 - **jsonModel**: Contains the application code with JSON-based models.
 
@@ -90,7 +90,7 @@ Choose the appropriate branch based on your database preference and follow the s
 
 ## Deployment
 
-The application is deployed on [Netlify]. You can access it [here](URL).
+I tried deploying the app on various cloud hosting servers like Netlify and Vercel. But unfortunately, I could not deploy this app because of some issues related to building the app. I am extremely sorry for this. I have experience deploying app, but this time I could not debug the problem. If I could debug, I would deploy it to any of the servers.
 
 ## Learnings and Challenges
 
